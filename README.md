@@ -3,6 +3,11 @@
 
 ## Tutorial (Video):
 
+<video autoplay loop style="width:100%; heigth: auto; position:absolute; z-index; -1;">
+   <source src="TermuxSignalErrorResolved.mp4" type="video/mp4" />
+
+</br>
+
 #### Deactivation Instructions (ADB):
 > *On an ADB console, paste the following commands on the following order:*
 

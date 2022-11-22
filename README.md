@@ -2,10 +2,7 @@
 > **a help for those who don't have root or computer to disable the termux error processes**
 
 ## Tutorial (Video):
-
-<video style="width:100%" controls src="TermuxSignalErrorResolved.mp4" type="video/mp4"></video>
-
-</br>
+[![Video Uploaded On Youtube](https://i3.ytimg.com/vi/IhK55QfWdYc/hqdefault.jpg)](https://youtu.be/IhK55QfWdYc)
 
 #### Deactivation Instructions (ADB):
 > *On an ADB console, paste the following commands on the following order:*

@@ -18,3 +18,6 @@
 ```
  adb shell settings put global settings_enable_monitor_phantom_procs false
 ```
+
+#### Download of Termux *(with Monet-You)*
+[<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="190">](https://github.com/HardcodedCat/termux-monet/releases)    

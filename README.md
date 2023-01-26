@@ -26,6 +26,6 @@
  adb devices
 ```
 
-#### Download of Termux *(with Monet-You)*
+#### Download of Termux *(with Monet-You)*:
 [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="190">](https://github.com/HardcodedCat/termux-monet/releases)    
 > download termux with the latest version. it's important to keep up to date!

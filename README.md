@@ -20,9 +20,11 @@
 ```
 
 ### if your cell phone is Samsung brand, you may have to do this first (Termux/terminal):
-- [x] export ADB_SERVER_SOCKET=localfilesystem:$(pwd)/adb_socket
-- [x] adb start-server
-- [x] adb devices
+```
+ export ADB_SERVER_SOCKET=localfilesystem:$(pwd)/adb_socket
+ adb start-server
+ adb devices
+```
 
 ##
 #### Download of Termux *(with Monet-You)*

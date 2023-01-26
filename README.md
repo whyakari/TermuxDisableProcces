@@ -20,16 +20,11 @@
 ```
 
 ### if your cell phone is Samsung brand, you may have to do this first (Termux/terminal):
-> ```export ADB_SERVER_SOCKET=localfilesystem:$(pwd)/adb_socket```
+- [x] export ADB_SERVER_SOCKET=localfilesystem:$(pwd)/adb_socket
+- [x] adb start-server
+- [x] adb devices
 
-#
-> ```adb start-server```
-> <br> daemon started successfully
-#
-> ```adb devices```
-> <br> List of devices attached
-
-
-
+##
 #### Download of Termux *(with Monet-You)*
 [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="190">](https://github.com/HardcodedCat/termux-monet/releases)    
+> download termux with the latest version. it's important to keep up to date!

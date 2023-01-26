@@ -19,5 +19,17 @@
  adb shell settings put global settings_enable_monitor_phantom_procs false
 ```
 
+### if your cell phone is Samsung brand, you may have to do this first (Termux/terminal):
+> ```export ADB_SERVER_SOCKET=localfilesystem:$(pwd)/adb_socket```
+
+#
+> ```adb start-server```
+> <br> daemon started successfully
+#
+> ```adb devices```
+> <br> List of devices attached
+
+
+
 #### Download of Termux *(with Monet-You)*
 [<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="190">](https://github.com/HardcodedCat/termux-monet/releases)    

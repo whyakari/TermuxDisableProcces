@@ -4,7 +4,7 @@
 
 ### Requirements:
  - Android 12+
- - Connection Wi-fi
+ - Connection Wi-Fi
 
 ---
 

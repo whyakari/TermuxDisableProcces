@@ -4,6 +4,10 @@
 ## Tutorial (Video):
 [![Video Uploaded On Youtube](https://i3.ytimg.com/vi/IhK55QfWdYc/hqdefault.jpg)](https://youtu.be/IhK55QfWdYc)
 
+### Requirements:
+ - Android 12+
+ - Connection Wi-fi 
+
 #### Deactivation Instructions (ADB):
 > *On an ADB console, paste the following commands on the following order:*
 

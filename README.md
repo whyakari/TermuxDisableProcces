@@ -3,7 +3,7 @@
 
 
 ### Requirements:
- - Android 12+
+ - Android 12+ (tested on ROM AOSP, for a better experience)
  - Connection Wi-Fi
 
 ---

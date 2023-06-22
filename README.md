@@ -38,5 +38,5 @@
 ---
 
 #### Download of Termux *(with Monet-You)*:
-[<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet.svg" width="190">](https://github.com/HardcodedCat/termux-monet/releases)    
+[<img src="https://raw.githubusercontent.com/HardcodedCat/termux-monet/master/art/ic_monet_dark.svg" width="120x50">](https://github.com/HardcodedCat/termux-monet/releases)    
 > download termux with the latest version. it's important to keep up to date!
